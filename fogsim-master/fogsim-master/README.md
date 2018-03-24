@@ -32,12 +32,12 @@ git pull origin master
 	numOfVehiclesPerFogDeviceCoverage  
   
   ## Input Parameters    
-  * Placed in #input# folder   
+  * Placed in **input** folder   
     
   ## Output Files     
-  * Placed in ## output ## folder  
+  * Placed in **output** folder  
   
   # Analysis Results 
-  The data and graphs are placed in #reults# folder
+  The data and graphs are placed in **results** folder
 	
 
