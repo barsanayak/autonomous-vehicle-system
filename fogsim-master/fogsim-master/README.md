@@ -19,10 +19,10 @@ git pull origin master
 ```
 * Include the JARs (except the CloudSim ones) to your Eclipse project.  
 * Run the class "AutnomousVehicleSystem" as  Java Application
-*On recieving the output, various required values can be used for analysis  
+* On recieving the output, various required values can be used for analysis  
 
 
-*Parameters and Configuration:  
+* Parameters and Configuration:  
   
 1. For Cloud computing values , CLOUD = true  
    For Fog Computing values, CLOUD = false;  
@@ -32,10 +32,10 @@ git pull origin master
 	numOfVehiclesPerFogDeviceCoverage  
   
   ## Input Parameters    
-  *Placed in #input# folder   
+  * Placed in #input# folder   
     
   ## Output Files     
-  *Placed in #output# folder  
+  * Placed in ## output ## folder  
   
   # Analysis Results 
   The data and graphs are placed in #reults# folder
