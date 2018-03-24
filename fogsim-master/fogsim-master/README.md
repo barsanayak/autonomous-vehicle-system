@@ -31,10 +31,10 @@ git pull origin master
 	numOfFogDeviceArea   
 	numOfVehiclesPerFogDeviceCoverage  
   
-  #Input Parameters    
+  ## Input Parameters    
   *Placed in #input# folder   
     
-  #Output Files     
+  ## Output Files     
   *Placed in #output# folder  
   
   # Analysis Results 
